@@ -6,7 +6,7 @@ import sys
 WB = load_workbook("<PLACEHOLDER_WORKBOOK_NAME>.xlsx", read_only=True)
 WS = WB["<PLACEHOLDER_WORKSHEET_NAME"]
 
-# TO RUN: execute with "py algorithm_downloadable.py"
+# TO RUN: execute with "py algorithm.py"
 
 # load data from workbook into nested list
 COLS_OF_INTEREST = [1, 5, 7, 9, 10, 21, 23, 24, 25, 31, 32]
