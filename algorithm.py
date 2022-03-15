@@ -4,7 +4,7 @@ import sys
 
 # TO RUN: replace workbook name and worksheet name
 WB = load_workbook("<PLACEHOLDER_WORKBOOK_NAME>.xlsx", read_only=True)
-WS = WB["<PLACEHOLDER_WORKSHEET_NAME"]
+WS = WB["<PLACEHOLDER_WORKSHEET_NAME>"]
 
 # TO RUN: execute with "py algorithm.py"
 
