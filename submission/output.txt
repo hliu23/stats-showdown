@@ -1,10 +1,10 @@
-Gonzaga
-Arizona  
-Baylor   
-Purdue   
-Kansas   
-Houston  
-Tennessee
-Duke     
-UCLA     
-Kentucky
+Gonzaga 2F
+Arizona  2F
+Baylor  1F
+Purdue  2F
+Kansas   6F
+Houston  3F
+Tennessee 1F
+Duke 4F
+UCLA 2F
+Kentucky 0F
