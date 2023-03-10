@@ -6,7 +6,7 @@ import os
 load_dotenv()
 WORKBOOK_NAME = os.environ.get("WORKBOOK_NAME")
 
-# TO RUN: set path to workbook in WORKBOOK_NAME in env in same direction
+# TO RUN: set path to workbook in WORKBOOK_NAME in .env in same directory
 WB = load_workbook(WORKBOOK_NAME, read_only=True)
 WS = WB["2022"]
 
